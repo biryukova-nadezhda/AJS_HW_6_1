@@ -1,6 +1,7 @@
 # Домашняя работа по теме Object, Reflection и Proxy
 ## Задача №1
 
+[![Build status](https://ci.appveyor.com/api/projects/status/29a5axa3i4d42w9a?svg=true)](https://ci.appveyor.com/project/biryukova-nadezhda/ajs-hw-6-1)
 
 ---
 ### For ... in
